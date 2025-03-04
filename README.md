@@ -1,4 +1,4 @@
-# Welcome to Skewl AI! 📝🤖
+# Welcome to Skewl AI 📝🤖
 
 Skewl AI is an intelligent AI notetaking app that understands the content of your notes through Pinecone vector embeddings. Our AI Chatbot can answer any questions about your notes!
 
